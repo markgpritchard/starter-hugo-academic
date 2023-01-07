@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Mark G. Pritchard
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Mark
+last_name: Pritchard
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
