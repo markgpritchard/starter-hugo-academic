@@ -14,12 +14,14 @@ last_name: Pritchard
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Public Health Registrar and DPhil student in Clinical Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Oxford, Pandemic Sciences Institute
+    url: https://www.psi.ox.ac.uk/
+  - name: Oxford School of Public Health
+  - url: https://www.oxsph.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
