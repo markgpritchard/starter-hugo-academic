@@ -88,7 +88,7 @@ email: ''
 highlight_name: true
 ---
 
-{style="text-align: justify;"}
+style="text-align: left;"
 
 I am a public health registrar in the Thames Valley and a DPhil (PhD) student modelling infectious disease dynamics at the University of Oxford. 
 
